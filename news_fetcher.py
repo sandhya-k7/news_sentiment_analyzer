@@ -10,4 +10,3 @@ def fetch_news(api_key, keyword):
     else:
         print("Error fetching news:", data)
         return []
-]
