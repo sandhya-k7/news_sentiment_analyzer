@@ -1,0 +1,8 @@
+streamlit
+vaderSentiment
+transformers
+nltk
+requests
+pandas
+matplotlib
+seaborn
